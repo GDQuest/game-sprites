@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,0,-32)">
+        <g transform="matrix(0.327083,0,0,0.175,0,0)">
+            <g id="path_start" transform="matrix(6.11465,0,0,11.4286,-489.172,5.8366e-14)">
+                <g transform="matrix(1.6,0,0,2,-190.4,-10)">
+                    <rect x="169" y="13" width="40" height="32" style="fill:rgb(1,87,155);"/>
+                    <path d="M209,45L169,45L169,13L209,13L209,45ZM171.5,15L171.5,43L206.5,43L206.5,15L171.5,15Z" style="fill:rgb(50,50,50);"/>
+                </g>
+                <path d="M144,80L80,80L80,16L144,16L144,80ZM84,20L84,76L140,76L140,20L84,20Z" style="fill:rgb(0,168,255);"/>
+                <g transform="matrix(1.58897,0,0,1.58897,-76.2121,-39.5762)">
+                    <text x="111px" y="63px" style="font-family:'Montserrat-Black', 'Montserrat';font-weight:900;font-size:22.337px;fill:rgb(0,168,255);">S</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
