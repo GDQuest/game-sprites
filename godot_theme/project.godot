@@ -1,0 +1,19 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=3
+
+[application]
+
+config/name="GDQuest Godot Theme"
+config/icon="res://icon.png"
+
+[rendering]
+
+environment/default_clear_color=Color( 0.101961, 0.101961, 0.101961, 1 )
+environment/default_environment="res://default_env.tres"
